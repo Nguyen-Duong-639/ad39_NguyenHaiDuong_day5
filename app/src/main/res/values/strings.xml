@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ad39_NguyenHaiDuong_day5</string>
+
+    <string name="khong_xac_dinh">Liên hệ không xác định</string>
+    <string name="moi">Mới</string>
+    <string name="them_lien_lac">Thêm vào liên hệ</string>
+    <string name="danh_dau">Đánh dấu</string>
+    <string name="khong_ket_noi">Không kết nối</string>
+    <string name="hien_thi_tat_ca">Hiển thị tất cả</string>
+    <string name="chan">Chặn</string>
+
+
+</resources>
